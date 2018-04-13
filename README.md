@@ -11,4 +11,4 @@ R (http://lincolnmullen.com/projects/dh-r/index.html).
 
 CSVs with latitude and longitude included for convenience.
 
-BN: some of the locations are inaccurate due to historical name changes.
+NB: some of the locations are inaccurate due to historical name changes.
